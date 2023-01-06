@@ -50,6 +50,7 @@
        
    .content{
     margin-top: 240px;
+    margin-left: 40px;
  
    }
 
@@ -69,7 +70,7 @@
     display: flex;
     justify-content: center;
     text-align: center;
-    margin-bottom: 128px;
+    margin-top: 20px;
    }
    .whole{
     padding: 25px;
@@ -87,4 +88,36 @@
     color: #737272;
     font-weight: 500;
     font-size: 20px;
+   }
+   /* sec-03 */
+   .third{
+    background-image: url('images/gradient2.png'), url('images/watch.png');
+    background-repeat: no-repeat;
+    width: 970px;
+    height: 300px;
+    margin: 130px 230px 128px 190px ;
+    border-radius: 11px;
+   }
+   .mix-up{
+    padding: 60px 590px 59px 65px;
+   }
+
+   .positive{
+    font-weight: 700;
+    font-size: 28px;
+    color: #FFFFFF;
+    margin-bottom: 25px;
+
+   }
+   .call{
+    background: #FFFFFF;
+    border-radius: 5px;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 12px;
+    width: 95px;
+    height: 50px;
+    border: 0;
+    border-radius: 2%;
+    padding: 10px;
    }
