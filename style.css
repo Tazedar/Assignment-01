@@ -25,5 +25,35 @@
     }
     .header-description{
         text-align: end;
-       
     }
+    /* main-first-part */
+    .first-part{
+        margin-top: 130px;
+        display: flex;
+        padding-left: 160px;
+        padding-right: 250px;
+     }
+     .img{
+    background-color:rgba(241, 91, 34, 0.2);
+   border-radius: 100%;
+     }
+     .upper{
+        margin-bottom: 24px;
+        font-size: 40px;
+        color: #151414;
+
+     } 
+     .middle{
+        margin-bottom: 16px;
+     }
+    
+       
+   .content{
+    margin-top: 240px;
+ 
+   }
+
+   .icons{
+    width: 10px;
+    height: 10px;
+   }
